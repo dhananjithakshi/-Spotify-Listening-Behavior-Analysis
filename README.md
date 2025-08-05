@@ -61,13 +61,5 @@ The dataset includes streaming sessions with fields capturing user behavior, pla
 
 ---
 
- ## 📁 Folder Structure 
-
- Spotify-Listening-Behavior-Analysis/
-│
-├── images/ # Screenshots of dashboards used in README
-├── DataSet/ # Spotify listening dataset (CSV or Excel)
-├── spotify.pbix # Power BI project file
-└── README.md # Project documentation
 
 
