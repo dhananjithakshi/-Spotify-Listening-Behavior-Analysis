@@ -57,7 +57,6 @@ The dataset includes streaming sessions with fields capturing user behavior, pla
 ## 🛠️ Tools Used
 
 - **Power BI** – Data modeling, DAX, dashboards
-- **Excel / CSV** – Data preparation
 - **Git & GitHub** – Version control and collaboration
 
 ---
